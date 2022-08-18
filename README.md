@@ -1,5 +1,5 @@
 # javascript-concepts
-This repository contains basic JS concepts
+This repository contains basic JS concepts.
 
 ## Concepts touched:
 - [Script Loading](https://github.com/twinkystar/javascript-concepts/blob/main/Script_Loading.md)
